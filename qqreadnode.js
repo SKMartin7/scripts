@@ -34,6 +34,7 @@ boxjs链接      https://raw.githubusercontent.com/ziye12/JavaScript/master/Task
 ⚠️宝箱奖励为20分钟一次，自己根据情况设置定时，建议设置11分钟一次
 
 hostname=mqqapi.reader.qq.com
+############## QX
 #企鹅读书获取更新body
 https:\/\/mqqapi\.reader\.qq\.com\/log\/v4\/mqq\/track url script-request-body https://raw.githubusercontent.com/SKMartin7/scripts/master/qqreads.js
 #企鹅读书获取时长cookie
